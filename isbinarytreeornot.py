@@ -9,7 +9,7 @@ class Node:
     def __init__(self, data):
         self.data = data
         self.left = None
-        self.right = none
+        self.right = None
 
 def isidentical(root1,root2):
     if(root1 == None and root2 == None):
